@@ -1,15 +1,15 @@
 {
-  "name": "www",
-  "version": "1.0.0",
-  "description": "",
+  "name": "demo-lines-draw",
+  "version": "1.0.5",
+  "description": "Demo project for Lines Draw module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "lines-draw": "^1.0.0",
-    "webpack": "^1.12.14"
+    "lines-draw": "1.1.x",
+    "webpack": "^1.12.x"
   },
-  "author": "",
+  "author": "Agustin Valeriani",
   "license": "ISC"
 }
